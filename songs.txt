@@ -30,6 +30,11 @@ Non Fast-Forward Merge:
 
 Non Fast-Forward Merge (contd...)
 > New changes in the Feature Branch
+<<<<<<< HEAD
 >>>>>>> feature
 
 > Non Fast-Forward Merge again
+=======
+
+> Attempt #2
+>>>>>>> feature
