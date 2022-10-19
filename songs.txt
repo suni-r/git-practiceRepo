@@ -13,4 +13,9 @@ To execute "git reset --hard HEAD~<num>" command
 _--_--_--_--_--_--_--_--_--_--_--_--_--_--_--_--_--_--_
 
 
-To execute "git revert <few chars of the SHA1 code>" command
+To execute "git revert <few chars of the SHA1 code>" command	
+
+----------------------------------------------------------------
+Branching & Merge:
+----------------------------------------------------------------
+> New changes in the Feature Branch
