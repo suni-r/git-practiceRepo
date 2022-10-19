@@ -31,3 +31,5 @@ Non Fast-Forward Merge:
 Non Fast-Forward Merge (contd...)
 > New changes in the Feature Branch
 >>>>>>> feature
+
+> Non Fast-Forward Merge again
