@@ -23,3 +23,5 @@ Branching & Merge:
 
 Non Fast-Forward Merge (contd...)
 > New changes in the Feature Branch
+
+> Attempt #2
