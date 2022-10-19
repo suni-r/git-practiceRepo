@@ -2,3 +2,5 @@ Bad Guy by Billie Eilish
 After Hours by The Weeknd
 
 WithoutMe by Halsey
+
+To execute "git reset --soft"
