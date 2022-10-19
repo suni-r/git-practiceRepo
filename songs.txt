@@ -18,4 +18,8 @@ To execute "git revert <few chars of the SHA1 code>" command
 ----------------------------------------------------------------
 Branching & Merge:
 ----------------------------------------------------------------
+Fast-Forward Merge:
 > New changes in the Feature Branch
+
+Non Fast-Forward Merge:
+> New changes in the Master Branch
