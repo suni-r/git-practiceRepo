@@ -3,4 +3,14 @@ After Hours by The Weeknd
 
 WithoutMe by Halsey
 
-To execute "git reset --soft"
+To execute "git reset --soft HEAD~<num>" command
+
+To execute "git reset --mixed HEAD~<num>" command
+
+To execute "git reset --hard HEAD~<num>" command
+
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+_--_--_--_--_--_--_--_--_--_--_--_--_--_--_--_--_--_--_
+
+
+To execute "git revert <few chars of the SHA1 code>" command
