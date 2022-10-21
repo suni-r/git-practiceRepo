@@ -33,6 +33,7 @@ Non Fast-Forward Merge (contd...)
 <<<<<<< HEAD
 >>>>>>> feature
 
+<<<<<<< HEAD
 > Non Fast-Forward Merge again
 =======
 
@@ -45,3 +46,7 @@ Non Fast-Forward Merge (contd...)
 Conflicts:
 ----------------------------------------------------------------
 New Change in Main Branch
+
+>New changes in the feature branch to create CONFLICT!
+
+>Conflict resolved successfully!!
