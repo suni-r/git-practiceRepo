@@ -25,3 +25,6 @@ Non Fast-Forward Merge (contd...)
 > New changes in the Feature Branch
 
 > Attempt #2
+
+
+>New chnages in the feature branch to create CONFLICT!
