@@ -71,3 +71,9 @@ GIT Stashing:
 
 > Stashing changes made in the Main branch
 >>>>>>> Stashed changes
+
+
+----------------------------------------------------------------
+GIT Remote:
+----------------------------------------------------------------
+>Adding changes to push changes from one repo to other
