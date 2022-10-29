@@ -56,6 +56,7 @@ New Change in Main Branch
 Tagging Commits:
 ----------------------------------------------------------------
 > Adding Tag to the Commit
+<<<<<<< Updated upstream
 =======
 >New chnages in the feature branch to create CONFLICT!
 
@@ -64,4 +65,9 @@ Tagging Commits:
 GIT Stashing:
 ----------------------------------------------------------------
 > Changes in the Feature branch to save using Stash
+>>>>>>> Stashed changes
+=======
+
+
+> Stashing changes made in the Main branch
 >>>>>>> Stashed changes
