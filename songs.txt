@@ -42,6 +42,7 @@ Non Fast-Forward Merge (contd...)
 
 > Attempt #3
 
+<<<<<<< Updated upstream
 ----------------------------------------------------------------
 Conflicts:
 ----------------------------------------------------------------
@@ -55,3 +56,12 @@ New Change in Main Branch
 Tagging Commits:
 ----------------------------------------------------------------
 > Adding Tag to the Commit
+=======
+>New chnages in the feature branch to create CONFLICT!
+
+
+----------------------------------------------------------------
+GIT Stashing:
+----------------------------------------------------------------
+> Changes in the Feature branch to save using Stash
+>>>>>>> Stashed changes
